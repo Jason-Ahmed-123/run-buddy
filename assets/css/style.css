@@ -377,7 +377,8 @@ section {
     content: "";
     height: 100%;
     width: 100%;
-    
+    /* linear gradient stuff was supposed to go here, 
+    but I could not make it work */
     position: absolute;
     top: 0;
     left: 0;
